@@ -13,4 +13,4 @@ if st.button("Evaluar"):
   else:
       resultado = "Lote aceptable"
 
- st.write(f"Resultado: {resultado}")
+  st.write(f"Resultado: {resultado}")
